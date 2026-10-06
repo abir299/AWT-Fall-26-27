@@ -8,6 +8,7 @@ function processOrder() {
             const success = true;
 
             if (success) {
+                
                 resolve({
                     orderid: 42017,
                     customer: "Aungkon",
